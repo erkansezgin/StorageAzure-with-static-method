@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WpfApplicationTestAzure.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AccountName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">storagedemoazure</Value>
+    </Setting>
+    <Setting Name="ContainerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">demo</Value>
+    </Setting>
+    <Setting Name="KeyValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">eETup3doMqieDUEk6yXkcSROLg0FsL7Sx7Vh8mSmUkDxQViVI+PdE2RV4shMB6AenfLOAnmzx1w035+YjrUCuw==</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
